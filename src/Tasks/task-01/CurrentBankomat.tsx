@@ -1,5 +1,5 @@
 import React from 'react';
-import {MoneyType} from "./App";
+import {MoneyType} from "./MoneyApp";
 import styled from "styled-components";
 
 type CurrentBankomatPropsType = {
